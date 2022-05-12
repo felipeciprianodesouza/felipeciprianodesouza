@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felipeciprianodesouza
 - 👀 I’m interested in  aprender sobre  Python , SQl e Liguagem R
 - 🌱 I’m currently learning Python e SQL
-- 💞️ I’m looking to collaborate on  no desenvolvimento de apps para análise de dados escritos em python facilitando assim a adaptação das empresas.
+- 💞️ I’m looking to collaborate on  no desenvolvimento de apps para análise de dados escritos em Python. 
 - 📫 How to reach me pelo e-mail: felipe@bi.tec.br ou pelo linkedin  https://www.linkedin.com/in/felipecipriano/
 
 <!---
